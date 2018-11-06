@@ -1,3 +1,5 @@
+<base charset="UTF-8">
+
 # 10月30日 pm
 
 ## 快捷键
